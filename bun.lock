@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "atv1-pt3",
+      "name": "Programacao2-Atv1-parte3",
       "devDependencies": {
         "@types/bun": "latest",
       },
